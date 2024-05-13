@@ -3437,11 +3437,11 @@ input, select, textarea {
 		#intro .logo img {
 			display: block;
 			margin-left: -0.25em;
-			width: 4.5em;
+			width: 6em;
 		}
 
 	#intro header h2 {
-		font-size: 2em;
+		font-size: 1.8em;
 		font-weight: 900;
 	}
 
