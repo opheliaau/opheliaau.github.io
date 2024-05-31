@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ophelia Au"
   avatar : "/assets/images/profile-pic-small.PNG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Where product meets personal passion. Product leader by day and games enthusiast by night."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -93,7 +93,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
