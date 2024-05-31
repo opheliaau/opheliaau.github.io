@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Documenting my journey and learnings in bringing to life a personal passion project: a multiplayer murder mystery game app! 
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -58,32 +58,33 @@ plugins:
 author:
   name   : "Ophelia Au"
   avatar : "/assets/images/profile-pic-small.PNG"
-  bio    : "Where product meets personal passion. Product leader by day and games enthusiast by night."
+  bio    : "Where product meets personal passion. 
+  Product leader by day and games enthusiast by night."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://opheliaau.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ophelia_au"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/opheliaau"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/hurricane_ophelia"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ophelia_au"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/opheliaau"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/opheliaau"
 
 defaults:
   # _posts
@@ -93,10 +94,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
