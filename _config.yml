@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ophelia's Corner
+title: Walking with Ophelia
 email: opheliaau7170@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Documenting my journey and learnings in bringing to life a personal passion project: a multiplayer murder mystery game app! 
+ Documenting my journey and learnings in bringing to life a personal passion project: a multiplayer murder mystery game app - UNRAVEL! 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
@@ -58,8 +58,7 @@ plugins:
 author:
   name   : "Ophelia Au"
   avatar : "/assets/images/profile-pic-small.PNG"
-  bio    : "Where product meets personal passion. 
-  Product leader by day and games enthusiast by night."
+  bio    : "Product leader by day and games enthusiast by night. Take a walk with me as I embark on a journey where product meets personal passion."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
