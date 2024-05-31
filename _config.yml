@@ -17,8 +17,8 @@ title: Walking with Ophelia
 email: opheliaau7170@gmail.com
 description: >- # this means to ignore newlines until "baseurl:" 
     Documenting my journey and learnings in bringing to life a personal passion project: a multiplayer murder mystery game app - UNRAVEL! 
-twitter_username: username
-github_username: username
+twitter_username: ophelia_au
+github_username: opheliaau
 minimal_mistakes_skin: contrast
 search: true
 
@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Ophelia Au"
