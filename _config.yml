@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ophelia Au"
+  name   : "First Lastname"
   avatar : "/assets/images/profile-pic-small.png"
-  bio    : "Product Leader and Games Enthusiast. Follow my journey in creating a murder mystery app."
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
