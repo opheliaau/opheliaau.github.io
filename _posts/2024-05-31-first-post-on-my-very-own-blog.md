@@ -4,7 +4,7 @@ date: 2024-05-31
 categories:
   - blog
 tags:
-  - Jekyll
+  - personal
   - update
 ---
 
@@ -23,5 +23,5 @@ Creation of the blog aside, I'm planning to use this blog to track my progress a
 
 My objective is threefold: 1) create an experience that I and others like me would LOVE and 2) rediscover my love for product management in an environment where I truly am the captain of the ship, and 3) learn some new technical and product skills. I feel like I've already made a lot of progress on the latter two. Hopefully the first will be met in due time! 
 
-I hope to come back to this first ever blog post at some point in the future and see how far I've come. I think I'll be proud of future me, no matter what she has (or hasn't) accomplished. 
+I aim to come back to this first ever blog post at some point in the future and see how far I've come. I think I'll be proud of future me, no matter what she has (or hasn't) accomplished. :grinning:
 
