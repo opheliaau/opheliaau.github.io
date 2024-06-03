@@ -5,7 +5,6 @@ categories:
   - blog
 tags:
   - personal
-  - update
 ---
 
 What a journey I took to even create my first blog post. This blog site was just meant to track my progress on another project, but even getting started with my own custom domain, figuring out where to host it, finding a no-code option for a blog front-end, etc. was quite the learning curve already!
