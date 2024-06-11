@@ -7,7 +7,7 @@ categories:
 tags:
   - prototype
   - MVP
-—
+---
 
 Once you have a product idea that you think people would use and like, it’s important to test that hypothesis as soon as possible. Poor product-market fit is one of the major reasons that startups fail. Don’t invest everything you have into an idea that hasn’t been tested! 
 
