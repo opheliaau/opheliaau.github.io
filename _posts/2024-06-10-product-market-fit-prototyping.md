@@ -19,12 +19,15 @@ I aimed to invest a balanced amount of time into the prototype. The investment s
 
 As I was wrapping up my prototype development, I gathered some of my network to test the basic functionality of the app and the concept. I’ve developed a list of questions to ask.
 
-How likely or unlikely would they be to play a(nother) murder mystery through this app, and invite their friends to join them?
-Does the information architecture and navigation make sense? 
-Does anything distract them or get in their way?
-When they explore the app, do they become confused at any point?
-How would they describe this product using their own words?
-Would you consider playing a murder mystery through UNRAVEL with your friends as an option when deciding on an activity?
+<ol>
+	<li>How likely or unlikely would they be to play a(nother) murder mystery through this app, and invite their friends to join them?</li>
+	<li>Does the information architecture and navigation make sense? </li>
+	<li>Does anything distract them or get in their way?</li>
+	<li>When they explore the app, do they become confused at any point?</li>
+	<li>How would they describe this product using their own words?</li>
+	<li>Would they consider playing a murder mystery through UNRAVEL with their friends as an option when deciding on a group activity?</li>
+	<li>Was there anything that they expected to see on the prototype but did not?</li>
+</ol>
 
 If this testing succeeds, I’ll move onto the next phase - MVP development. This means getting a game up and running so that it is truly playable. At this point, my net of testers will widen considerably, as I expect many people are willing to try out this kind of game for free (and I can start hosting games with my own network).
 
