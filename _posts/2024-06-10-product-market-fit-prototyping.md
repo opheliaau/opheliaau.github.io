@@ -1,6 +1,6 @@
 ---
 title: "Think you have product-market fit? Prove it!"
-date: 2024-06-04
+date: 2024-06-10
 categories:
   - product
   - blog
