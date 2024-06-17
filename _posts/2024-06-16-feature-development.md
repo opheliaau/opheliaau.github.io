@@ -81,6 +81,7 @@ To illustrate a bit of the thinking that goes into each part of the app, here’
 <td markdown="span" style="vertical-align:top">Do not allow the game to start unless the required number of players is present</td>
 <td markdown="span" style="vertical-align:top">
 	- Add condition to the “Start Game” button to be clickable only when required players condition is met.<br>
+	- Explain that more players need to be added in order to start the game.<br>
 </td>
 </tr>
 <tr>
@@ -140,8 +141,8 @@ To illustrate a bit of the thinking that goes into each part of the app, here’
 <tr>
 <td markdown="span" style="vertical-align:top">Cannot join a room that is full</td>
 <td markdown="span" style="vertical-align:top">
-	- Change the leaving player’s host status to no.<br>
-	- Update the second player by room join time to be the host.<br>
+	- Remove the player's status as host.<br>
+	- Update the another player's status to host.<br>
 
 </td>
 </tr>
@@ -152,7 +153,7 @@ To illustrate a bit of the thinking that goes into each part of the app, here’
 <td markdown="span" style="vertical-align:top">
 	- If rejoined to the game lobby, add them to the bottom of the existing player list, not their original position.<br>
 	- Do not assign a character that has already been assigned to someone else during their absence from the room.<br>
-	- Keep all existing data relating to their game (e.g. clues obtained) progress so it will remain when they rejoin.<br>
+	- Keep all existing data relating to their game progress (e.g. clues obtained) so it will remain when they rejoin.<br>
 </td>
 </tr>
 
