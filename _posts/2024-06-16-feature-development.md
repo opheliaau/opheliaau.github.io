@@ -34,7 +34,7 @@ To illustrate a bit of the thinking that goes into each part of the app, here’
 </thead>
 <tbody>
 <tr>
-<td markdown="span" rowspan="3" style="vertical-align:top">**Select a Game**</td>
+<td markdown="span" rowspan="3" style="vertical-align:top">**Select a game**</td>
 <td markdown="span" style="vertical-align:top">Allow host to select a game</td>
 <td markdown="span" style="vertical-align:top">
 	- Create a “Select Game” button under the game title.<br>
