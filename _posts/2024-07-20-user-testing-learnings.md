@@ -2,10 +2,11 @@
 title: "Lessons from user testing"
 date: 2024-07-20
 categories:
-  - product
+  - product
 tags:
-  - testing
+  - testing
 ---
+
 It’s been a busy few weeks as I launched my MVP! I’ve been through several rounds of test+iterate and wanted to share the general steps I followed, with some insights specific to my experience.
 
 
