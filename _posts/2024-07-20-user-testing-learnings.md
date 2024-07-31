@@ -38,7 +38,7 @@ Third was ensuring my testers were on the same page as I was. Explaining the tes
 In my experience, I found that testers are sometimes hesitant to give feedback that they think are minor, because they don’t want to downplay everything else that’s great. Assuaging this concern helped me obtain feedback that was actually a quick fix on my end in exchange for a boost in user experience.
 
 
-<b>Collect feedback with an open-mind</b>
+<b>Collect feedback with an open mind</b>
 
 Sometimes I received feedback that didn’t align with my vision for the product. Or I received feedback that the tester didn’t like a feature that other testers thought was great. One time, I received feedback that maybe I should just scrap the whole thing because a non-app method would be better. And that’s okay! 
 
@@ -48,10 +48,11 @@ It’s easy to feel a bruised ego when hearing this, and that might mean you’r
 
 <b>Parse feedback and get back to user testing</b>
 
-After each testing round, I received a long list of feedback items. Some were easy bug fixes, others were complex overhauls. I heard what people liked, what they didn’t like, proposed solutions, alternative methods, everything! But I only have so much time to iterate on the app, and I had to discern which items on the list were worth tackling now vs later vs never. It’s more of an art than a science, but with my product vision in mind, I had to prune down that list mercilessly and put the re-iterated version to the test again. If I chose the wrong thing to prioritize, I’ll likely find out with more user testing. That’s why I am so rigorous with choosing the highest impact but quick improvements so that I don’t delay another round of user tests.
+After each testing round, I received a long list of feedback items. Some were easy bug fixes, others were complex overhauls. I heard what people liked, what they didn’t like, proposed solutions, alternative methods, everything! But I only have so much time to iterate on the app, and I had to discern which items on the list were worth tackling now vs later vs never. It’s more of an art than a science, but with my product vision in mind, I had to prune down that list mercilessly and put the re-iterated version to the test again. If I chose the wrong thing to prioritize, I’ll likely find out with more user testing. That’s why I am so rigorous with choosing the <i>highest impact</i> but <i>quick improvements</i> so that I don’t delay another round of user tests.
 
 
 <b><i>Final thoughts</i></b>
+
 The most important thing I’ve gleaned from these rounds of test+iterate is the user testing muscle. It’s now a habit; something I do on a regular basis for my product. User testing isn’t just for MVP. It’s important to continue user testing even when the product is much further than that. Users are the heart of the product and hearing from them directly is a great way to make them love your product!
 
 
